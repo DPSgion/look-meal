@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353235298832",
+    "project_id": "meal-ee8ed",
+    "storage_bucket": "meal-ee8ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353235298832:android:f64105e5077cc4389e7895",
+        "android_client_info": {
+          "package_name": "com.doan_android.meal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-EI9ygl8xsTYdBljW1ihLMytP1gmgxqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
